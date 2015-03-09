@@ -11,7 +11,7 @@ namespace vjezba1pis
         {
             Console.WriteLine("Hello Shenron and hello world!");
             Console.WriteLine("Goku je najjaci");
-            
+            Console.WriteLine("Goku je najjac 1i");
         }
     }
 }
