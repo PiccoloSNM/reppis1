@@ -10,6 +10,7 @@ namespace vjezba1pis
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Shenron and hello world!");
+            Console.WriteLine("Goku je najjaci");
             
         }
     }
